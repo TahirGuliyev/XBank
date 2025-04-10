@@ -1,0 +1,6 @@
+@XBank.ApiGateway_HostAddress = http://localhost:5011
+
+GET {{XBank.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@XBank.CustomerService_HostAddress = http://localhost:5268
+
+GET {{XBank.CustomerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
